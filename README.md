@@ -10,10 +10,11 @@ This repository contains our group's implementation of four fundamental data str
 
 | Name | Structure Implemented |
 |---|---|
-| Student 1 | B-Tree |
-| Student 2 | Linked List |
-| Student 3 | AVL Tree |
-| Student 4 | Graph |
+| 243439 | Wonuola Yinyinloluwa Alonge
+| 243472 | Olaniyan Oluwasemilore 
+| 243467 | Obuwovo Victor
+| 243480 | Oyeleke Raphae 
+| 243424 | Abiodun Samuel Oluwatobi
 
 ---
 

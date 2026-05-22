@@ -1,6 +1,6 @@
 # 🧠 Python Data Structures
 
-**CSC 341 — Data Structures & Algorithms | Assignment: Implementation of Core Data Structures**
+**CSC 341 Data Structures & Algorithms | Assignment: Implementation of Core Data Structures**
 
 This repository contains our group's implementation of four fundamental data structures as part of the CSC 341 assignment. Each file is fully annotated — comments explain the *why* behind every design decision, not just the *what*. Alongside the code, this README documents the standard algorithm (in plain steps) for every operation implemented, so the logic is clear independent of any language.
 

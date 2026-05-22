@@ -8,7 +8,7 @@ This repository contains our group's implementation of four fundamental data str
 
 ## 👥 Group Members
 
-| Name | Structure Implemented |
+| Matric |  Names|
 |---|---|
 | 243439 | Wonuola Yinyinloluwa Alonge
 | 243472 | Olaniyan Oluwasemilore 
